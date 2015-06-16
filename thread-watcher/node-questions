@@ -1,0 +1,5 @@
+1. How do we find out/document the flow of events and handlers?
+2. Node event queue state.
+3. 
+
+ActiveMQ advisory messages. Try to listen to them.
